@@ -1,0 +1,69 @@
+{
+
+    "name": "Chemical Isomers",
+
+    "contents": [
+
+        {
+
+            "name": "Structural (Constitutional Isomers)"
+
+        },
+
+        {
+
+            "name": "Stereoisomers",
+
+            "contents": [
+
+                { 
+
+                    name: "Diasteromers",
+
+                    "contents": [
+
+                        {
+
+                            "name": "Conformational isomers".
+
+                        },
+
+                        {
+
+                            "name": "Configurational isomers"
+
+                            "contents": [
+
+                            {
+
+                                    "name": "E/Z Isomers",
+
+                            },
+
+                            {
+
+                                    "name": "R/L Mesocompounds",
+
+                            }
+
+                            ]
+
+                        }
+
+                    ]},
+
+                { 
+
+                "name": "Enantiomers", 
+
+                                }
+
+                                   
+
+            ]
+
+        }],
+
+       
+
+    };
