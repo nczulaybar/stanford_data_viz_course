@@ -13,6 +13,10 @@ get '/' do
   File.read('app/index.html')
 end
 
+get '/data/ChemTrack.csv' do
+  send_file('app/data/ChemTrack.csv', type: :csv)
+end
+
 # # CRUD routes
 # post '/' do
 # #  .. create something ..
