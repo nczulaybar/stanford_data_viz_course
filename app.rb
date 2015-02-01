@@ -14,7 +14,7 @@ get '/' do
 end
 
 get '/data/ChemTrack.csv' do
-  send_file('app/data/ChemTrack.csv', type: :csv)
+  send_file('app/data/ChemTrack.csv', type: 'text/csv')
 end
 
 # # CRUD routes
